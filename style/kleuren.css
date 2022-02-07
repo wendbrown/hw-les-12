@@ -1,0 +1,100 @@
+header{
+background-color: rgb(201, 135, 255);
+width: 100%;
+height: 200px;
+}
+
+h1{
+  color: green;
+  }
+
+table{
+  height: 400px;
+  width: 1200px;
+  }
+
+#groen{
+  background-color: #38C20E;
+  width: 300px;
+}
+
+#blauw{
+  background-color: #0E4DC2;
+  width: 300px;
+}
+
+#paars{
+  background-color: #B30EC2;
+  width: 300px;
+}
+
+#rood{
+  background-color: #FF0000;
+  width: 300px;
+}
+
+#lichtgroen{
+  background-color: #91FF8F;
+  width: 300px;
+}
+
+#turkoois{
+  background-color: #17E3C4;
+  width: 300px;
+}
+
+#perzik{
+  background-color: #FFB703;
+  width: 300px;
+}
+
+#bordeaux{
+  background-color: #D11137;
+  width: 300px;
+}
+
+#geel{
+  background-color: #FFF23B;
+  width: 300px;
+}
+
+#oranje{
+  background-color: #FF5500;
+  width: 300px;
+}
+
+#bruin{
+  background-color: brown;
+  width: 300px;
+}
+
+#grijs{
+  background-color: grey;
+  width: 300px;
+}
+
+#roze{
+  background-color: #FF0A8D;
+  width: 300px;
+}
+
+#beige{
+  background-color: #F5F593;
+  width: 300px;
+}
+
+#lila{
+  background-color: #A732F0;
+  width: 300px;
+}
+
+#lichtblauw{
+  background-color: lightblue;
+  width: 300px;
+}
+
+footer{
+background-color: rgb(227, 187, 57);
+width: 100%;
+height: 200px;
+}
